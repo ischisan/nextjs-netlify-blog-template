@@ -2,7 +2,10 @@
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
   "site_title": "ischiBlog",
   "site_description": "This is my blog",
-  "site_keywords": [],
+  "site_keywords": [
+    "ischisan",
+    "blog"
+  ],
   "posts_per_page": 5,
   "twitter_account": "@ischi11",
   "github_account": "ischisan"
